@@ -201,6 +201,86 @@ const questions = [
     answer: 0,
     questionRef: "CPU",
   },
+  {
+    id: 22,
+    q: "How would we add 'sister' to the end of the following list?",
+    q2: "family = ['Mum', 'Dad', 'brother']",
+    choices: ["family.append('sister')", "family.pop('sister')"],
+    answer: 0,
+    questionRef: "Python",
+  },
+  {
+    id: 23,
+    q: "How would we remove the item at index 0 from the list below?",
+    q2: "favourite_foods = ['pizza', 'yoghurt', 'waffles', 'biryani']",
+    choices: ["favourite_foods.pop(0)", "favourite_foods.pop(1)", "favourite_foods.pop()"],
+    answer: 0,
+    questionRef: "Python",
+  },
+  {
+    id: 24,
+    q: "How would we remove the last item from the list below?",
+    q2: "favourite_foods = ['pizza', 'yoghurt', 'waffles', 'biryani']",
+    choices: ["favourite_foods.pop()", "favourite_foods.pop(1)", "favourite_foods.pop(0)"],
+    answer: 0,
+    questionRef: "Python",
+  },
+  {
+    id: 25,
+    q: "How many values at a time can we add with append?",
+    choices: ["one at a time", "we can add an unlimited number of values in one go"],
+    answer: 0,
+    questionRef: "Python",
+  },
+  {
+    id: 26,
+    q: "How many values at a time can we add with insert?",
+    choices: ["one at a time", "we can add an unlimited number of values in one go"],
+    answer: 0,
+    questionRef: "Python",
+  },
+  {
+    id: 27,
+    q: "When we use 'append', where in the list does the appended value get added?",
+    choices: ["at the end of the list", "at the beginning of the list"],
+    answer: 0,
+    questionRef: "Python",
+  },
+
+
+  // {
+  //   id: 28,
+  //   q: "exampleToCopy",
+  //   choices: ["", ""],
+  //   answer: 0,
+  //   questionRef: "Python",
+  // },
+  // {
+  //   id: 29,
+  //   q: "exampleToCopy",
+  //   choices: ["", ""],
+  //   answer: 0,
+  //   questionRef: "Python",
+  // },
+  // {
+  //   id: 30,
+  //   q: "exampleToCopy",
+  //   choices: ["", ""],
+  //   answer: 0,
+  //   questionRef: "Python",
+  // },
+  
+
+  // {
+  //   id: 28,
+  //   q: "exampleToCopy",
+  //   choices: ["", ""],
+  //   answer: 0,
+  //   questionRef: "Python",
+  // },
+
+
+
 
   // {
   //   id: 0,
